@@ -1,1 +1,2 @@
-# for-test-01 НЕ ВИДАЛЯТИ, ВИКОРИСТОВУЄТЬСЯ У ТЕСТ КЕЙСАХ
+# goit-markup-hm-03
+Home work HTML+CSS (flex box)
